@@ -201,7 +201,7 @@ h3 {
     }
 
     .about {
-        margin-top: 60%;
+        margin-top: 40%;
     }
 
     .main_text2 {
@@ -218,7 +218,7 @@ h3 {
 
     .formobile {
         width: 100%;
-        content: url(Templates/IMG_7075.JPG);
+        content: url(../Templates/IMG_7075.JPG);
         object-fit: contain;
         margin-top: 15%;
     }
