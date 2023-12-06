@@ -335,6 +335,10 @@ h3 {
         width: 100%;
     }
 
+    .slider > a {
+        display: none;
+    }
+
     .contact h3 {
         font-size: 20px;
     }
