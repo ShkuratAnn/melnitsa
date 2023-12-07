@@ -347,6 +347,15 @@ h3 {
 
     .contact h3 {
         font-size: 20px;
+        margin: 0 15px;
+    }
+
+    .contact h3 a {
+        font-size: 20px;
+    }
+
+    #contacts {
+        font-size: 40px;
     }
 
     #slide-14, #slide-15, #slide-16, #slide-17, #slide-6, #slide-7,
