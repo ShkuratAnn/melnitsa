@@ -342,7 +342,7 @@ h3 {
     }
 
     .slider > a {
-        display: none;
+        font-size: 5px;
     }
 
     .contact h3 {
